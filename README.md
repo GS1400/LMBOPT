@@ -1,7 +1,7 @@
 LMBOPT is limited memory method for unconstrained and bound
 constrained optimization. 
 
-DOI: 10.5281/zenodo.5607521 
+[![DOI](https://zenodo.org/badge/422180225.svg)](https://zenodo.org/badge/latestdoi/422180225)
 
 The program was written by Morteza Kimiaei (University of 
 Vienna). Please inform the author at kimiaeim83@univie.ac.at 
